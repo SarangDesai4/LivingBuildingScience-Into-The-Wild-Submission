@@ -1,0 +1,5 @@
+names:
+- Bee
+nc: 1
+train: /content/datasets/LBS-1/train/images
+val: /content/datasets/LBS-1/valid/images
